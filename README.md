@@ -2,8 +2,8 @@
 API for the consequential party game enhancer - hat of shame
 
 ## schema
----
-`user
+```
+user
   id
   first name
   last name
@@ -15,4 +15,5 @@ API for the consequential party game enhancer - hat of shame
 consequence
   id
   description
-  category`
+  category
+```
